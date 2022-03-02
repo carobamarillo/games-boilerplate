@@ -6,7 +6,7 @@
     "node": "14.19.0"
   },
   "scripts": {
-    "start": "node src/inndex.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "@graphql-tools/utils": "^8.6.2",
