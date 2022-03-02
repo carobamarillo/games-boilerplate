@@ -26,5 +26,7 @@ A simple spa to manage a list of games from a user authenticated via Google API,
 ## Pending
 - [ ] Filter component in the main page
 - [ ] Tests
+- [ ] Improve responsive styles
+- [ ] Improve performance
 - [ ] Improve css, maybe use Sass
 - [ ] Use next.js...maybe)?
