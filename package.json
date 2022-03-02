@@ -1,0 +1,22 @@
+{
+  "name": "games-deploy",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "14.19.0"
+  },
+  "scripts": {
+    "start": "node src/inndex.js"
+  },
+  "dependencies": {
+    "@graphql-tools/utils": "^8.6.2",
+    "apollo-server-express": "^3.6.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "googleapis": "^95.0.0",
+    "graphql": "^16.3.0",
+    "lodash.merge": "^4.6.2",
+    "mongodb": "^4.4.0"
+  }
+}
