@@ -22,3 +22,9 @@ A simple spa to manage a list of games from a user authenticated via Google API,
 - User2
   - email: stoffe.test.games@gmail.com
   - pass: stoffe.test.games111
+
+## Pending
+- Filter component in the main page
+- Tests
+- Improve css, maybe use Sass
+- Use next.js...maybe)?
